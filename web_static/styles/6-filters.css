@@ -64,6 +64,7 @@ h4 {
   background-color: #fafafa;
   width: calc(100% - 50px);
   border: 1px solid #ddd;
+  border-radius: 4px;
   position: absolute;
   top: 70px;
   left: 0;
